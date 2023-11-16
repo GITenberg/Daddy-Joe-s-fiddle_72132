@@ -5,12 +5,17 @@ contributor:
     agent_name: Foster, Edith Francis
     gutenberg_agent_id: '26213'
     url: http://www.gutenberg.org/2009/agents/26213
+covers:
+- cover_type: archival
+  image_path: 72132-h/images/cover.jpg
 creator:
   author:
     agent_name: Bickford, Faith
     gutenberg_agent_id: '56555'
     url: http://www.gutenberg.org/2009/agents/56555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72132#Daddy-Joe-s-fiddle
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72132'
